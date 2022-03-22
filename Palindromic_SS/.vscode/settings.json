@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    },
+
+    "code-runner.executorMap": {
+        "cpp": "g++ -std=c++17 -g $fullFileName && ./a.out"
+    }
+}
+
+//added -g flag to code runner command might have to remove

@@ -1,0 +1,1 @@
+            (*sumCurr)->next = nullptr;

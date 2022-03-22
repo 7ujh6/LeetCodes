@@ -1,0 +1,1 @@
+curr->random ? clones.at(curr->random) : nullptr
