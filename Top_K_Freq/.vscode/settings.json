@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    },
+
+    "code-runner.executorMap": {
+        "cpp": "g++ -std=c++17 -g $fullFileName && ./a.out"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}
+
+//added -g flag to code runner command might have to remove
